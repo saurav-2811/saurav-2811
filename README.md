@@ -3,7 +3,7 @@
 
 #### I'm Saurav Deep and here's a little about me:
 
-* I'm a student pursuing BCA (Bachelor of Computer Applications).
+* I'm a student pursuing MCA (Master of Computer Applications).
 * 🔭 I’m currently working on MERN Stack.
 * 🌱 I’m currently playing with Node.js.
 * 🤔 I love to play with MERN Stack and integrating services.
